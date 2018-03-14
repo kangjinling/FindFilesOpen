@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--显示时逐渐从透明到不透明过度，同时移动一小段距离-->
+
+    <alpha
+        android:duration="1000"
+        android:fromAlpha="0.0"
+        android:toAlpha="1.0"
+        />
+
+</set>
